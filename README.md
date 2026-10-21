@@ -82,4 +82,4 @@ Each game picks a random region and a random 10-year period from the dataset.
 
 ## Author
 
-Mirza Baig
+Team Project
